@@ -1,11 +1,13 @@
 Java Backend developer in training.
-Currently learning:
- - Java
- - Spring
+Current stack
  - HTML
  - CSS
- - JUnit
- - SQL
+ - Java 17+
+ - Spring Boot
+ - MySQL
+ - JDBC
+ - JUnit, AssertJ
+ - Thymeleaf
 
 CSS and HTML:
 - https://a-dreszler.github.io/portfolio-page/
