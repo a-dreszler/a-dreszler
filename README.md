@@ -1,5 +1,5 @@
-Java Backend developer in training.
-Current stack
+Java back-end developer in training.
+Current stack:
  - HTML
  - CSS
  - Java 17+
